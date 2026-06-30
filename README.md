@@ -1,6 +1,6 @@
-# PunBB-Chinese-language
+# PunBB Chinese language
 PunBB 1.4.6 Chinese language pack
-简体中文语言包
+PunBB 简体中文语言包
 适用于 [PunBB v1.4.6](https://punbb.informer.com/downloads.php#1.4.6)
 向下兼容性未测试
 
