@@ -1,0 +1,11 @@
+Subject: 论坛新主题：<forum_name>
+
+<topic_starter> 在你关注的论坛中创建了新主题 <topic_subject>。
+
+该新主题位于：<topic_url>
+
+如果你想取消订阅，请访问：<unsubscribe_url>
+
+--
+<board_mailer>
+（请勿回复本邮件）
